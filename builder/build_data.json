@@ -1,5 +1,5 @@
 {
-  "build_hash": "e8e0d461cc44800af15d879d18b2b7e2",
+  "build_hash": "d05c0f719b6cd6f1169e6480ebba4db3",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -859,6 +859,10 @@
     {
       "code": "0xf3c2",
       "name": "easel"
+    },
+    {
+      "code": "0xf13b",
+      "name": "ebike"
     },
     {
       "code": "0xf2bf",

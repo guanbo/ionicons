@@ -1,5 +1,5 @@
 {
-  "build_hash": "eee1459becf73b96c6d2bbc1f7a31529",
+  "build_hash": "19a1f2ad3cf6ded286edf028bb6c9534",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -863,6 +863,10 @@
     {
       "code": "0xf13b",
       "name": "ebike"
+    },
+    {
+      "code": "0xf138",
+      "name": "ebike-close-outline"
     },
     {
       "code": "0xf2bf",
